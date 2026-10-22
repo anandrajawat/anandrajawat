@@ -314,26 +314,29 @@ Dr. Rajawat combines deep academic research with hands-on software development a
 <br/>
 
 
+
 <div align="center">
 
-<h2>🐍 Watch My Contributions Get Eaten!</h2>
+## 🐍 GitHub Contribution Snake
 
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/kohlirupesh19/kohlirupesh19/output/github-snake-dark.svg"
+    srcset="https://raw.githubusercontent.com/anandrajawat/anandrajawat/output/github-snake-dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/kohlirupesh19/kohlirupesh19/output/github-snake.svg"
+    srcset="https://raw.githubusercontent.com/anandrajawat/anandrajawat/output/github-snake.svg"
   />
   <img
     alt="GitHub contribution snake animation"
-    src="https://raw.githubusercontent.com/kohlirupesh19/kohlirupesh19/output/github-snake.svg"
+    src="https://raw.githubusercontent.com/anandrajawat/anandrajawat/output/github-snake.svg"
+    width="100%"
   />
 </picture>
 
 </div>
+
 
 
 </div>

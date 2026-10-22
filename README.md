@@ -29,7 +29,9 @@
     <img src="https://img.shields.io/badge/Department-AI_%26_Data_Science-0A192F?style=for-the-badge&logo=probot&logoColor=38BDF8&labelColor=030B1E" alt="Department of AI and Data Science" />
   </a>
   <img src="https://img.shields.io/badge/Location-Pune%2C_India-0A192F?style=for-the-badge&logo=googlemaps&logoColor=F43F5E&labelColor=030B1E" alt="Location Pune, India" />
-  <img src="https://komarev.com/ghpvc/?username=anandrajawat&label=PROFILE+VIEWS&style=for-the-badge&color=00D2FF&labelColor=030B1E" alt="Profile Views Counter" />
+  <a href="https://github.com/anandrajawat" target="_blank">
+    <img src="https://hits.sh/github.com/anandrajawat.svg?style=for-the-badge&label=PROFILE+VIEWS&color=00D2FF&labelColor=030B1E" alt="Profile Views Counter" />
+  </a>
 </p>
 
 <!-- ========================================================================= -->
@@ -279,22 +281,13 @@ Dr. Rajawat combines deep academic research with hands-on software development a
 
 ### 🏛️ Academic Appointments & Journey
 
-```mermaid
-timeline
-    title Dr. Anand Singh Rajawat — Academic Journey
-    Academic Foundations : Ph.D. in Computer Science & Engineering : LL.B. (Bachelor of Laws)
-    Faculty & USA Guest Role : Faculty @ Shri Vaishnav Vidyapeeth Vishwavidyalaya (SVVV), Indore : Guest Faculty @ St. Cloud State University, Minnesota, USA
-    International Appointment : Postdoctoral Researcher @ KLUST Malaysia
-    Current Leadership : Professor @ Department of AI & Data Science, Pimpri Chinchwad University (PCU), Pune : World's Top 2% Scientist in Artificial Intelligence (Stanford-Elsevier)
-```
-
-* 🎓 **Current Academic Chair**: Professor, Department of Artificial Intelligence and Data Science, **Pimpri Chinchwad University (PCU)**, Pune, Maharashtra, India
-* 🔬 **Postdoctoral Research Appointment**: Postdoctoral Researcher, **KLUST Malaysia**
-* 🌐 **International Academic Appointment**: Former Guest Faculty, **St. Cloud State University**, Minnesota, USA
-* 🏛️ **Prior University Faculty Appointment**: Former Faculty, **Shri Vaishnav Vidyapeeth Vishwavidyalaya (SVVV)**, Indore, Madhya Pradesh, India
-* 📜 **Educational Qualifications**:
-  * **Ph.D.** in Computer Science and Engineering
-  * **LL.B.** (Bachelor of Laws)
+| Institutional Appointment / Role | Institution & Location | Strategic Scope & Focus |
+| :--- | :--- | :--- |
+| 🎓 **Professor (Current)** | **Pimpri Chinchwad University (PCU)**<br/>Pune, Maharashtra, India | Department of Artificial Intelligence & Data Science · Departmental leadership, doctoral mentoring & advanced AI/ML research |
+| 🔬 **Postdoctoral Researcher** | **KLUST Malaysia** | International collaborative research in federated learning, cyber-physical systems & IoMT |
+| 🌐 **Former Guest Faculty** | **St. Cloud State University**<br/>Minnesota, USA | Global academic exchange, computer science pedagogy & international scientific cooperation |
+| 🏛️ **Former Faculty** | **Shri Vaishnav Vidyapeeth Vishwavidyalaya (SVVV)**<br/>Indore, Madhya Pradesh, India | Foundational computer science education, software engineering & curriculum development |
+| 📜 **Academic Degrees** | **Ph.D. in Computer Science & Engineering**<br/>**Bachelor of Laws (LL.B.)** | Interdisciplinary synergy uniting technical AI architecture with legal compliance, ethics & Law-Tech |
 
 ---
 
@@ -302,28 +295,21 @@ timeline
 
 <div align="center">
 
-<!-- GitHub Readme Stats & Streak Stats -->
-<table border="0">
-  <tr>
-    <td align="center" valign="middle">
-      <a href="https://github.com/anandrajawat">
-        <img src="https://github-readme-stats.vercel.app/api?username=anandrajawat&show_icons=true&hide_border=false&title_color=00FFFF&icon_color=00D2FF&text_color=E2E8F0&bg_color=0A192F&border_color=1E3A8A" alt="GitHub Stats for anandrajawat" width="415" />
-      </a>
-    </td>
-    <td align="center" valign="middle">
-      <a href="https://github.com/anandrajawat">
-        <img src="https://streak-stats.demolab.com/?user=anandrajawat&background=0A192F&border=1E3A8A&stroke=00D2FF&ring=00FFFF&fire=00FFFF&currStreakNum=E2E8F0&sideNums=E2E8F0&currStreakLabel=00FFFF&sideLabels=00D2FF&dates=94A3B8" alt="GitHub Streak for anandrajawat" width="415" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center" valign="middle">
-      <a href="https://github.com/anandrajawat">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandrajawat&layout=compact&hide_border=false&title_color=00FFFF&text_color=E2E8F0&bg_color=0A192F&border_color=1E3A8A" alt="Top Languages for anandrajawat" width="450" />
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/anandrajawat">
+    <img src="https://github-readme-stats.vercel.app/api?username=anandrajawat&show_icons=true&hide_border=false&title_color=00FFFF&icon_color=00D2FF&text_color=E2E8F0&bg_color=0A192F&border_color=1E3A8A" alt="GitHub Stats for anandrajawat" height="175" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/anandrajawat">
+    <img src="https://streak-stats.demolab.com/?user=anandrajawat&background=0A192F&border=1E3A8A&stroke=00D2FF&ring=00FFFF&fire=00FFFF&currStreakNum=E2E8F0&sideNums=E2E8F0&currStreakLabel=00FFFF&sideLabels=00D2FF&dates=94A3B8" alt="GitHub Streak for anandrajawat" height="175" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/anandrajawat">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandrajawat&layout=compact&hide_border=false&title_color=00FFFF&text_color=E2E8F0&bg_color=0A192F&border_color=1E3A8A" alt="Top Languages for anandrajawat" height="170" />
+  </a>
+</p>
 
 </div>
 
